@@ -9,6 +9,7 @@ A tela principal possui sistemas de abas e um jogo escondido.
 Todos as telas possui a caracteristica undecorated, ou seja, tudo é feito manualmente sem utilizar as decorações/botões/bordas do sistema operacional.
 
 #status
+
 Projeto feito apenas para as telas de login
  
 #Demonstrando o easter egg
